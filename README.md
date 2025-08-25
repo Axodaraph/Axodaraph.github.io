@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me  
+##  About Me  
 - 🎨 I craft **modern, responsive, and user-friendly web apps**  
 - ⚡ I love mixing **Frontend magic** with **Cloud power (AWS)**  
 - 🔥 Passionate about **React, Next.js, and scalable architectures**  
