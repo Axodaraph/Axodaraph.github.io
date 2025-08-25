@@ -14,20 +14,20 @@ My focus is on **React, Next.js, and TypeScript**, leveraging best practices to 
 ## 🚀 Tech Stack  
 
 ### 🎨 Frontend  
-![React]  
-![Next.js]
-![TailwindCSS] 
-![TypeScript]
+React    
+Next.js  
+TailwindCSS   
+TypeScript  
 
 ### ☁️ Cloud & Backend  
-![AWS] 
-![Amplify]  
-![Node.js] 
-![Express] 
+AWS   
+Amplify    
+Node.js   
+Express   
 
 ### 🛠️ Tools & Workflow  
-![Git] 
-![Figma] 
+Git   
+Figma   
 
 ---
 
