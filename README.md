@@ -4,7 +4,7 @@
 
 ---
 
-### About Me  
+## About Me  
 I design and implement **modern, responsive, and performant web applications**.  
 I enjoy bridging **frontend development with cloud infrastructure**, ensuring projects are robust, scalable, and maintainable.  
 My focus is on **React, Next.js, and TypeScript**, leveraging best practices to deliver solutions that meet both business and technical needs.  
